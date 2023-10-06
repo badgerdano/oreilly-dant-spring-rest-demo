@@ -20,3 +20,5 @@ There is a public method in the InvoiceController class called getInvoicesMapByC
 The requirements were:
 
 Build a Spring rest service that accepts a long CustomerID and returns a Map<long InvoiceID, String TenderType>. This method will get all invoices and tendertypes for that customerID from the invoice table. 
+
+This project was created in IntelliJ and uses maven
